@@ -11,6 +11,7 @@
     "concepts": {
         "Evfl": "C# scripted editor and compiler",
         "Evtm": "(unclear with in-game usage 2/13/2023)",
+        "Ptcl": "Editor (if I dare attempt a lib)",
         "Bfres": "Basic I/O, texture viewing, basic sub-file editor",
         "Bars": "Basic I/O, audio sampler (?)"
     }
