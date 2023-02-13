@@ -1,0 +1,17 @@
+{
+    "defaults": {
+        "Yaz0": "Yaz0 de/compression will be handled automatically with custom options"
+    },
+    "planned": {
+        "Aamp": "Editor, Yaml",
+        "Byml": "Editor for certain Byml files, Yaml",
+        "Msbt": "Pseudo-Html",
+        "Sarc": "Tree view, sub-file editing (where applicable)"
+    },
+    "concepts": {
+        "Evfl": "C# scripted editor and compiler",
+        "Evtm": "(unclear with in-game usage 2/13/2023)",
+        "Bfres": "Basic I/O, texture viewing, basic sub-file editor",
+        "Bars": "Basic I/O, audio sampler (?)"
+    }
+}
