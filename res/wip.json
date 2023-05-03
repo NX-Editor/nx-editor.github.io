@@ -1,6 +1,6 @@
 {
     "defaults": {
-        "zStandard": "zStandard de/compression will be handled automatically"
+        "zStd": "zStandard de/compression will be handled automatically"
     },
     "planned": {
         "Bgyml": "Editor, Yaml",
