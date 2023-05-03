@@ -2,8 +2,11 @@
     "defaults": {
         "zStd": "zStandard de/compression will be handled automatically"
     },
+    "stable": {},
+    "working": {
+        "Byml": "Yaml Editor",
+    },
     "planned": {
-        "Bgyml": "Editor, Yaml",
         "Msbt": "Pseudo-Html",
         "Sarc": "Tree view, sub-file editing (where applicable)"
     },
