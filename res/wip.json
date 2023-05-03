@@ -3,14 +3,14 @@
         "zStandard": "zStandard de/compression will be handled automatically"
     },
     "planned": {
-        "Byml (Bgyml)": "Editor, Yaml",
+        "Bgyml": "Editor, Yaml",
         "Msbt": "Pseudo-Html",
         "Sarc": "Tree view, sub-file editing (where applicable)"
     },
     "concepts": {
         "Evfl": "C# scripted editor and compiler",
         "Evtm": "(unclear with in-game usage 2/13/2023)",
-        "Bfres v10": "Basic I/O, texture viewing, basic sub-file editor",
+        "Bfres": "Basic I/O, texture viewing, basic sub-file editor",
         "Bars": "Basic I/O, audio sampler (?)"
     }
 }
