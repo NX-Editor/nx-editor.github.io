@@ -1,18 +1,16 @@
 {
     "defaults": {
-        "Yaz0": "Yaz0 de/compression will be handled automatically with custom options"
+        "zStandard": "zStandard de/compression will be handled automatically"
     },
     "planned": {
-        "Aamp": "Editor, Yaml",
-        "Byml": "Editor for certain Byml files, Yaml",
+        "Byml (Bgyml)": "Editor, Yaml",
         "Msbt": "Pseudo-Html",
         "Sarc": "Tree view, sub-file editing (where applicable)"
     },
     "concepts": {
         "Evfl": "C# scripted editor and compiler",
         "Evtm": "(unclear with in-game usage 2/13/2023)",
-        "Ptcl": "Editor (if I dare attempt a lib)",
-        "Bfres": "Basic I/O, texture viewing, basic sub-file editor",
+        "Bfres v10": "Basic I/O, texture viewing, basic sub-file editor",
         "Bars": "Basic I/O, audio sampler (?)"
     }
 }
