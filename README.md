@@ -1,3 +1,3 @@
-# U-King Editor
+# EX-King Editor
 
-Webhost repository for UKing Editor (website and/or app host)
+Webhost repository for EX-King Editor (website and/or app host)
