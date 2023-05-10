@@ -4,11 +4,12 @@
     },
     "stable": {},
     "working": {
-        "Byml": "Yaml Editor"
+        "Byml": "Yaml Editor",
+        "Sarc": "Tree view, sub-file editing (where applicable)"
     },
     "planned": {
         "Msbt": "Pseudo-Html",
-        "Sarc": "Tree view, sub-file editing (where applicable)"
+        "RESTBL": "Table editor"
     },
     "concepts": {
         "Evfl": "C# scripted editor and compiler",
