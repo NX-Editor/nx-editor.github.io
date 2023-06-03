@@ -2,19 +2,21 @@
     "defaults": {
         "zStd": "zStandard de/compression will be handled automatically"
     },
-    "stable": {},
-    "working": {
-        "Byml": "Yaml Editor",
-        "Sarc": "Tree view, sub-file editing (where applicable)"
+    "supported": {
+        "Byml": "Yaml editor",
+        "Sarc": "Explorer editor and nested file editing",
+        "RESTBL": "Yaml editor",
+        "Msbt": "Yaml editor with pseudo-html tags"
     },
     "planned": {
-        "Msbt": "Pseudo-Html",
-        "RESTBL": "Table editor"
+        "RESTBL": "Table editor",
+        "TXTG": "Texture previewer with import/export/replace features",
+        "Bars": "Basic archive IO features and audio sampler"
     },
     "concepts": {
+        "Ainb/Asb": "Yaml editor (?)",
         "Evfl": "C# scripted editor and compiler",
         "Evtm": "(unclear with in-game usage 2/13/2023)",
-        "Bfres": "Basic I/O, texture viewing, basic sub-file editor",
-        "Bars": "Basic I/O, audio sampler (?)"
+        "Bfres": "Basic I/O, texture viewing, basic sub-file editor"
     }
 }
