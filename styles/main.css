@@ -41,10 +41,9 @@ li {
 }
 
 li b {
-    color: #969db1;
-    width: 60px;
+    color: #6485dd;
     display: inline-block;
-    margin: 0 3px 0 0;
+    margin: 2px 5px 2px 0;
 }
 
 .quote {
