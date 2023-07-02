@@ -5,7 +5,7 @@
     "supported": {
         "Byml": "Yaml editor",
         "Sarc": "Explorer editor and nested file editing",
-        "RESTBL": "Yaml editor",
+        "RESTBL": "Entry editor",
         "Msbt": "Yaml editor with pseudo-html tags"
     },
     "planned": {
