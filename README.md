@@ -1,3 +1,3 @@
-# EX-King Editor
+# NX-Editor Website
 
-Webhost repository for EX-King Editor (website and/or app host)
+Website repository for NX-Editor
