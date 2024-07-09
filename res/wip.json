@@ -1,23 +1,23 @@
 {
     "epd-plugin": {
-        "Pain Text": "Any plain text file will open.",
-        "BFEVFL/BFEVTM": "Simple JSON text editor.",
-        "BYML v7": "Simple YAML text editor.",
-        "MSBT": "Simple YAML text editor.",
-        "RSTB/RESTBL": "RSTB changelog editor.",
-        "SARC": "Archive editor with nested editing support.",
-        "Yaz0": "Yaz0 decompression and compression."
+        "Plain Text": "Simple plain text editor",
+        "BFEVFL/BFEVTM": "Simple JSON text editor",
+        "BYML v7": "Simple YAML text editor",
+        "MSBT": "Simple YAML text editor",
+        "RSTB/RESTBL": "RSTB changelog editor",
+        "SARC": "Archive editor with nested editing support",
+        "Yaz0": "Yaz0 decompression and compression"
     },
     "totk-plugin": {
-        "zStandard": "zStandard decompression and compression using the TotK dictionaries.",
+        "zStandard": "zStandard decompression and compression using the TotK dictionaries",
         "RSTB/RESTBL": "Provides strings for all versions of TotK up to 1.2.1"
     },
     "planned": {
-        "AINB/ASB": "Node editor.",
-        "BARS": "Basic archive IO features and audio sampler.",
+        "AINB/ASB": "Node editor",
+        "BARS": "Basic archive IO features and audio sampler",
         "BFRES": "Basic I/O, texture viewing, basic sub-file editor",
-        "EVFL": "Ndoe editor and/or scripted editor.",
-        "TXTG": "Texture viewer.",
-        "SARC Searching": "Nested file searching in SARC archives."
+        "EVFL": "Node editor and/or scripted editor",
+        "TXTG": "Texture viewer",
+        "SARC Searching": "Nested file searching in SARC archives"
     }
 }
